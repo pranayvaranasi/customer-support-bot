@@ -1,4 +1,3 @@
-Here are the five required files for your `test_transcripts/` folder. You can create these files directly in your GitHub repository. These transcripts accurately demonstrate the four stages of your agent's workflow based on the SOP constraints and the prompt design we established.
 
 ### 1. in sop
 
