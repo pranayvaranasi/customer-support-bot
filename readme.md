@@ -2,7 +2,7 @@
 # Closira AI Support Agent: Bloom Aesthetics 🌸
 
 **Live Prototype:** [Streamlit App Deployment](https://customer-support-workflow.streamlit.app/)
-**Video Walkthrough:** 
+**Video Walkthrough:** https://youtu.be/LB27tMokmX0
 
 An AI-powered customer support workflow built to handle inbound customer enquiries for small and medium businesses (SMBs). Developed by Pranay Varanasi for the Closira AI Engineering Intern assignment.
 
